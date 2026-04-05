@@ -44,9 +44,13 @@ This project performs an Exploratory Data Analysis (EDA) on an Online Retail dat
 
 ## 📂 Project Structure
 ```
-├── Online Retail Data Set after data cleaning.xlsx
-├── CodeAlpha_EDA_Task2.ipynb
-└── README.md
+CodeAlpha_Exploratory-Data-Analysis/
+├── Original_data set.xlsx        # Raw dataset used for analysis
+├── Final_data set.xlsx           # Cleaned dataset after preprocessing
+├── codealpha task 2 code.py.pdf  # Python code used for EDA
+├── EDA_Report_by_Uzair_khan.pdf  # Final EDA report with insights
+├── README.md                     # Project documentation
+└── LICENSE                       # MIT License for the project
 ```
 
 ---
